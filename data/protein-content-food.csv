@@ -1,0 +1,66 @@
+﻿class,food,protein_per_100g
+Meat,Chicken Thigh or Drumstick,15
+Meat,Chicken Breast,32
+Meat,Beef Steak,31
+Meat,Lamb Chop,29.2
+Meat,Pork Belly,9.3
+Meat,Pork Sausage,14
+Meat,Pork Bacon,20
+Meat,Pork Chop,31.6
+Fish,Tuna,23.5
+Fish,Mackerel,20.8
+Fish,Salmon,24.2
+Fish,Cod,20.8
+Seafood,Prawns,22.6
+Seafood,Mussels,16.7
+Seafood,Crabsticks,10
+Eggs,Egg,12.5
+Dairy,Whole Milk,3.3
+Dairy,Semi-Skimmed Milk,3.4
+Dairy,Skimmed Milk,3.4
+Dairy,Cheddar Cheese,25.4
+Dairy,Cottage Cheese,12.6
+Dairy,Whole Milk Yogurt,5.7
+Dairy,Low Fat Yogurt,4.8
+Pulses,Red Lentils,7.6
+Pulses,Green Peas,5.4
+Pulses,Chickpeas,8.4
+Beans,Kidney Beans,6.9
+Beans,Baked Beans,5.2
+Beans,Edamame,12
+Beans,Tofu,8.1
+Grains,Brown Bread,7.9
+Grains,White Bread,7.9
+Grains,Rice,2.6
+Grains,Oatmeal,11.2
+Grains,Pasta,6.6
+Nuts,Almonds,21.1
+Nuts,Walnuts,14.7
+Nuts,Peanuts,26
+Nuts,Hazelnuts,14.1
+Fruits,Fig,0.8
+Fruits,Lime,0.7
+Fruits,Pear,0.4
+Fruits,Mango,0.8
+Fruits,Banana,1.1
+Fruits,Apple,0.3
+Fruits,Orange,1.3
+Fruits,Avocado,2
+Fruits,Tomato,1
+Fruits,Lemon,1.1
+Vegetables,Carrot,0.9
+Vegetables,Broccoli,2.8
+Vegetables,Broadbeans,4.8
+Vegetables,Celery,0.7
+Vegetables,Onion,1.1
+Vegetables,Chives,3.3
+Vegetables,Garlic,6.4
+Vegetables,Spinach,2.9
+Vegetables,Pumpkin,1
+Vegetables,Cabbage,1.3
+Vegetables,Aubergine,1
+Vegetables,Courgette,1.2
+Vegetables,Leek,0.8
+Vegetables,Spring Onion,1.8
+Vegetables,Cauliflower,1.9
+Vegetables,Potato,2.6
